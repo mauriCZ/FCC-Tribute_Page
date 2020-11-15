@@ -6,17 +6,26 @@ body{
   
 }
 #main{
+  border: 1px solid black;
   width: 95%;
   margin: 20px auto;
-  /* border: 1px solid black; */
   background-color: rgba(245, 235, 235, 0.89);
   min-height: 100vh;
 }
-
+img{
+  max-width: 100%;
+}
 
 #img-div{
-  border: 1px solid black;
+  /* border: 1px solid green; */
+  /* margin: 100px 10px 10px 20px; */
+  margin :0;
+  background-color: #fff;
+  padding: 20px;
+  text-align: center;
 }
-#img{
-  border: 2px solid blue;
+#image-caption{
+  /* border: 1px solid blue; */
+  font-size: 20px;
+  font-weight: lighter;
 }
