@@ -12,3 +12,11 @@ body{
   background-color: rgba(245, 235, 235, 0.89);
   min-height: 100vh;
 }
+
+
+#img-div{
+  border: 1px solid black;
+}
+#img{
+  border: 2px solid blue;
+}
